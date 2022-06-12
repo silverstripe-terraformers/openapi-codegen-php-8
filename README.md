@@ -1,3 +1,9 @@
+> **⚠️ This client is abandoned ⚠️**
+>
+> This package is here purely to serve the [Elastic OpenAPI PHP client generator](https://github.com/elastic/openapi-codegen-php) with PHP 8 as an allowed platform requirement
+>
+> All credit and praise goes to the contributors of [Elastic OpenAPI PHP client generator](https://github.com/elastic/openapi-codegen-php)
+
 # Elastic OpenAPI PHP client generator.
 
 <p align="center"><a href="https://circleci.com/gh/elastic/openapi-codegen-php"><img src="https://circleci.com/gh/elastic/openapi-codegen-php.svg?style=svg" alt="CircleCI build"></a></p>
